@@ -43,3 +43,15 @@ It also integrates the **Yahoo Finance API** to fetch real-time data.
 -->Build an interactive dashboard using Streamlit
 
 -->Add more advanced ML models (LSTM, Random Forest)
+
+📊 Dashboard Preview
+
+-->Closing Price with 20-day & 50-day Moving Averages
+
+-->Linear Regression predicted stock prices
+
+-->Real-time data fetching from Yahoo Finance
+
+-->Data preview (last 5 rows)
+
+     
