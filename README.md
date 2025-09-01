@@ -54,4 +54,14 @@ It also integrates the **Yahoo Finance API** to fetch real-time data.
 
 -->Data preview (last 5 rows)
 
+## 📊 Dashboard Preview
+
+Here is a preview of the dashboard:
+
+![Dashboard Screenshot](dashboard1.png/dashboard.png)
+![Dashboard Screenshot](dashboard2.png/dashboard.png)
+![Dashboard Screenshot](dashboard3.png/dashboard.png)
+
+
+
      
