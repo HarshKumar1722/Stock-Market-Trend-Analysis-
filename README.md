@@ -58,9 +58,9 @@ It also integrates the **Yahoo Finance API** to fetch real-time data.
 
 Here is a preview of the dashboard:
 
-![Dashboard Screenshot](screenshots/dashboard1.png)
-![Dashboard Screenshot](screenshots/dashboard2.png)
-![Dashboard Screenshot](screenshots/dashboard3.png)
+![Dashboard Screenshot](screenshot/dashboard1.png)
+![Dashboard Screenshot](screenshot/dashboard2.png)
+![Dashboard Screenshot](screenshot/dashboard3.png)
 
 
 
